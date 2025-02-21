@@ -61,20 +61,8 @@ python visualize.py
 ✔️ Generates **visualizations** of regression results
 ✔️ Scalable for **real-world applications**
 
-## **📊 Example Output**
-A sample regression plot showing the relationship between variables:
 
-![Sample Regression Output](results.png)
 
-## **🤝 Contributing**
-Feel free to **fork** this repository, submit **pull requests**, or open **issues** to enhance this project!
-
----
-
-**📩 Contact:**
-For any queries, reach out at **your.email@example.com**
-
-🚀 Happy Coding! 🎯
 
 
 # Build the Docker image
